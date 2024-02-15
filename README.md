@@ -4,19 +4,7 @@
 
 <p id="description">My first ever website created as a submission for my first internship. It is very simple and baisc website for tuition classes named "Shri Suyash Academy". This website is a made using bootstrap framework. and it has 1 only static webpage. It has vector images in it has the modern and clean design.</p>
 
-<h2>Project Screenshots:</h2>
 
-<iframe title='hero' style="width: 100%; max-width: 982px; min-height: 570px;" src="https://app.gemoo.com/embed/home?codeId=vzxYpGJ8mzkka"  frameborder="0" allowfullscreen loading="lazy"></iframe>
-
-<img src="https://drive.google.com/file/d/1c_N9vCl5G0fqc3b4Dm8SYfgi5uaOSNPx/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bUhttps://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bU" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bU" alt="project-screenshot" width="400" height="400/">
-
-<img src="https://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bU" alt="project-screenshot" width="400" height="400/">
-
-  
   
 <h2>💻 Built with</h2>
 
