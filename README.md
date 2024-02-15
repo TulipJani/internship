@@ -6,18 +6,17 @@
 
 <h2>Screenshot</h2>
 
-<img src="scrnsht/hero.jpg" alt="Girl in a jacket" width="500" height="">
+<p align="center"> <img src="scrnsht/hero.jpg" alt="" width="500" height=""></p>
 
-<img src="scrnsht/meetinstructor.jpg" alt="Girl in a jacket" width="500" height="">
+<p align="center"><img src="scrnsht/meetinstructor.jpg" alt="" width="500" height=""></p>
 
-<img src="scrnsht/about.jpg" alt="Girl in a jacket" width="500" height="">
+<p align="center"><img src="scrnsht/about.jpg" alt="" width="500" height=""></p>
 
-<img src="scrnsht/testimonials.jpg" alt="Girl in a jacket" width="500" height="">
+<p align="center"><img src="scrnsht/testimonials.jpg" alt="" width="500" height=""></p>
 
-<img src="scrnsht/navbar.jpg" alt="Girl in a jacket" width="500" height="">
+<p align="center"><img src="scrnsht/navbar.jpg" alt="" width="500" height=""></p>
 
-
-<img src="scrnsht/footer.jpg" alt="Girl in a jacket" width="500" height="">
+<p align="center"><img src="scrnsht/footer.jpg" alt="" width="500" height=""></p>
   
 <h2>💻 Built with</h2>
 
