@@ -4,6 +4,9 @@
 
 <p id="description">My first ever website created as a submission for my first internship. It is very simple and baisc website for tuition classes named "Shri Suyash Academy". This website is a made using bootstrap framework. and it has 1 only static webpage. It has vector images in it has the modern and clean design.</p>
 
+<h2>Screenshot</h2>
+<img src="scrnsht/hero.jpg" alt="Girl in a jacket" width="500" height="600">
+
 
   
 <h2>💻 Built with</h2>
