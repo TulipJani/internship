@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://app.gemoo.com/share/image-annotation/616746747385024512?codeId=v62A4OOJjyVB8&origin=imageurlgenerator&card=616746744788750336" alt="project-screenshot" width="100" height="100/">
+<iframe title='hero' style="width: 100%; max-width: 982px; min-height: 570px;" src="https://app.gemoo.com/embed/home?codeId=vzxYpGJ8mzkka"  frameborder="0" allowfullscreen loading="lazy"></iframe>
 
 <img src="https://drive.google.com/file/d/1c_N9vCl5G0fqc3b4Dm8SYfgi5uaOSNPx/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
 
