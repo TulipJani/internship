@@ -6,9 +6,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bU" alt="project-screenshot" width="100" height="100/">
+<img src="https://drive.google.com/file/d/15w2TLD_1TpBfIs-03zBatopCMTO3Qfn8/view?usp=sharing" alt="project-screenshot" width="100" height="100/">
 
-<img src="https://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bU" alt="project-screenshot" width="400" height="400/">
+<img src="https://drive.google.com/file/d/1c_N9vCl5G0fqc3b4Dm8SYfgi5uaOSNPx/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
 
 <img src="https://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bUhttps://drive.google.com/drive/folders/1JgBUoIhgSGk-DtdATY2mY28IfM2CU2bU" alt="project-screenshot" width="400" height="400/">
 
